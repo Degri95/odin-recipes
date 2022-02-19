@@ -1,0 +1,35 @@
+* {
+    background-color: rgba(127, 225, 255, 0.699);
+}
+
+.Title {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
+}
+
+.link-box ul {
+    display: table;
+    margin: 0 auto;
+    text-align: center;
+    list-style: none;
+    font-size: 28px;
+    border-style: solid;
+    padding: 2%;
+    border-radius: 40px;
+}
+
+.link-box ul li {
+    padding: 4%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+
+img {
+   margin: auto;
+   display: block;
+   padding: 2%;
+}
